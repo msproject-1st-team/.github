@@ -48,8 +48,6 @@ Wound Vision은 이러한 현실적인 문제들을 해결하고자 시작되었
 ![Wound vision (2)_page-0007](https://github.com/user-attachments/assets/a9896e4e-5524-4668-8a49-d950ccfbfba6)
 ![Wound vision (2)_page-0008](https://github.com/user-attachments/assets/a4949f86-eb4d-4421-87e3-043028256808)
 
-*클릭하여 Wound Vision의 실제 동작 과정을 확인해보세요*
-
 
 
 ## 🤖 AI 모델 개발 과정 (AI Model Development)
