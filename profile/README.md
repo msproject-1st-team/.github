@@ -113,6 +113,10 @@ def remove_background(image):
 ![Wound vision (2)_page-0012](https://github.com/user-attachments/assets/037904ea-b9db-470e-a96d-33024bb17a45)
 
 
+
+[![Wound Vision Demo Video](https://img.youtube.com/vi/7Rr6NqAYDx0/maxresdefault.jpg)](https://youtu.be/7Rr6NqAYDx0)
+
+
 <br>
 
 ## 🚀 향후 계획 (Future Work)
