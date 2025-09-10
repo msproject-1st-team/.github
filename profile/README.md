@@ -117,6 +117,7 @@ def remove_background(image):
 
 
 [![Wound Vision Demo Video](https://img.youtube.com/vi/7Rr6NqAYDx0/maxresdefault.jpg)](https://youtu.be/7Rr6NqAYDx0)
+*클릭하여 Wound Vision의 실제 동작 과정을 확인해보세요*
 
 
 <br>
